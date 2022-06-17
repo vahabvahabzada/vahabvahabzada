@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vahab Vahabzada</h1>
 <h3 align="center">I'am a Computer Science student at ASOIU and interested in Software development</h3>
-- 👨‍💻 All of my projects are available at [https://github.com/vahabvahabzada](https://github.com/vahabvahabzada)
+- 👨‍💻 All of my projects are available at [https://github.com/vahabvahabzada]
 
 <p align="left">
 </p>
