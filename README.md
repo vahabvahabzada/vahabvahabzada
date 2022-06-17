@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vahab Vahabzada</h1>
 <h3 align="center">I'am a Computer Science student at ASOIU and interested in Software development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vahabvahabzada&label=Profile%20views&color=0e75b6&style=flat" alt="vahabvahabzada" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/vahabvahabzada](https://github.com/vahabvahabzada)
 
 <p align="left">
